@@ -1,0 +1,26 @@
+#titulo{
+  font-family: 'Fredoka One', cursive;
+  font-size: 50px;
+  margin: 0px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+#carta{
+  font-size: 20px;
+}
+
+#firma{
+  font-family: 'Herr Von Muellerhoff', cursive;
+  font-size: 90px;
+  margin: 0px;
+}
+
+#top{
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 7px;
+}
+
+#top:hover{
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
