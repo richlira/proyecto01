@@ -11,6 +11,8 @@ import { DelasartesComponent } from './delasartes/delasartes.component';
 import { NosotrosComponent } from './nosotros/nosotros.component';
 
 import { AppRoutingModule } from './app-routing.module';
+import { AgendaDetalleComponent } from './agenda/agenda-detalle/agenda-detalle.component';
+import { AgendaempiezaComponent } from './agenda/agendaempieza/agendaempieza.component';
 
 
 @NgModule({
@@ -22,6 +24,8 @@ import { AppRoutingModule } from './app-routing.module';
     ConvocatoriasComponent,
     DelasartesComponent,
     NosotrosComponent,
+    AgendaDetalleComponent,
+    AgendaempiezaComponent,
   ],
   imports: [
     BrowserModule,
