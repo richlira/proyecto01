@@ -18,3 +18,13 @@
   font-size: 90px;
   margin: 0px;
 }
+
+#foto{
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 7px;
+}
+
+.white-text{
+  font-weight: bold;
+}
