@@ -13,6 +13,7 @@ import { NosotrosComponent } from './nosotros/nosotros.component';
 import { AppRoutingModule } from './app-routing.module';
 import { AgendaDetalleComponent } from './agenda/agenda-detalle/agenda-detalle.component';
 import { AgendaempiezaComponent } from './agenda/agendaempieza/agendaempieza.component';
+import { FooterComponent } from './footer/footer.component';
 
 
 @NgModule({
@@ -26,6 +27,7 @@ import { AgendaempiezaComponent } from './agenda/agendaempieza/agendaempieza.com
     NosotrosComponent,
     AgendaDetalleComponent,
     AgendaempiezaComponent,
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
